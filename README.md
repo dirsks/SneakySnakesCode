@@ -1,6 +1,6 @@
-# =====================================================
+# ================
 #   SneakySnakes v3 - Online Multiplayer Update
-# =====================================================
+# ================
 
 # HOW TO RUN (Offline / Single-player):
   Windows:  double-click run.bat   OR  java -jar dist/SneakySnakes.jar
@@ -43,9 +43,9 @@
   • track 3: Kubbi - Up In My Jam
   • track 4: Cody O'Quinn - BATTLE MAN
 
-=====================================================
+================
   COMPILING FROM SOURCE
-=====================================================
+================
   cd src
   javac -cp . *.java
   jar cfe ../dist/SneakySnakes.jar SneakySnakes *.class
